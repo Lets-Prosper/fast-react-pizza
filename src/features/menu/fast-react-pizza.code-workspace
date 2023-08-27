@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "../../.."
+	}
+],
+  "settings": {
+    "editor.wordWrap": "on",
+    "workbench.settings.useSplitJSON": false,
+    "css.lint.unknownAtRules": "ignore"
+  }
+}
